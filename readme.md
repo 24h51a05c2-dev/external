@@ -1,2 +1,2 @@
 hello
-status:no features
+status:new feature
