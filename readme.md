@@ -1,2 +1,2 @@
 hello 
-step :initial
+step :first
