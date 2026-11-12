@@ -1,2 +1,2 @@
-hello
-status:new feature
+hello 
+statu:new and updated
